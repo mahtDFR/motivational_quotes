@@ -1,7 +1,7 @@
 [done] add more quotes
 [done] add restart function
 [done] display for set duration
+[done] upload to github
 make quit and restart single key press
 fix bug of any key quit
-upload to github
 add user submissions
